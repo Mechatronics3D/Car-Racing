@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mechatronics3D/Car-Racing/main?filepath=notebooks/car_racing.ipynb)
+[![Pangeo](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/Mechatronics3D/Car-Racing/main?filepath=main/notebooks/car_racing.ipynb)
+
 # CarRacing-v0
 
 Reinforcement learning on the example of CarRacing-v0 environment from OpenAI Gym (https://gym.openai.com/). Existing implementations of RL Agents used in this project were taken from StabeBaselines3 library (https://stable-baselines3.readthedocs.io).
